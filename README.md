@@ -1,2 +1,2 @@
 # Multiple Linear Regression from Scratch
- practicing mlr
+ practicing mlr from scratch
